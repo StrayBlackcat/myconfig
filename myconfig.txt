@@ -1,0 +1,8 @@
+#MAC-UTF問題解決策
+core.precomposeunicode true
+#日本語ファイル名解決策
+core.quotepath false
+#rebase便利機能
+rebase.autosquash true
+#改行コード自動変換OFF
+core.autocrlf false
